@@ -1,0 +1,26 @@
+//import java.util.ArrayList;
+
+public class test {
+
+    public static void main(String[] args) {
+        // TODO Auto-generated method stub
+    	Solution593 s = new Solution593();
+    	int[] a = new int[]{1,1,4,4};
+//       int[][] a = new int[][]{
+//    	   {45,92,47,47,53,79},{11,95,21,7,57,2},{59,98,57,58,70,8},
+//    	   {28,90,14,95,91,24},{44,43,25,19,9,18}
+//       };
+    //   int[] a = new int[] {1,2,7,7,2,10,3,4,5};
+    	
+       System.out.println(s.stoneGame2(a));
+//        temp.next = null;
+        
+      //  s.rorate(digits, 7+3);
+//        String a = "Abc";
+    //	int result = s;
+//        for (int i = 0; i < digits.length; i++) {
+//            System.out.println(digits[i]);
+//        }
+    }
+
+}

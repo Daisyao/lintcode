@@ -1,0 +1,24 @@
+import java.util.ArrayList;
+import java.util.List;
+
+public class test {
+
+    public static void main(String[] args) {
+        // TODOuto-generated method stub
+    	Solution168 s = new Solution168();
+    	int[] a = new int[]{4,1,5,10};
+    	//ListNode(digits[0]);
+//        ListNode temp = listhead;
+//        for (int i = 1; i < digits.length; i++) {
+//        	temp.next = new ListNode(digits[i]);
+//        	temp = temp.next;
+//        }
+//        temp.next = null;
+        
+      //  s.rorate(digits, 7+3);
+//        String a = "Abc";
+    	//ArrayList<ArrayList<Integer>> al = s.buildingOutline(a);
+        System.out.println(s.maxCoins(a));
+    }
+
+}

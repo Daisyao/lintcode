@@ -1,0 +1,26 @@
+import java.util.ArrayList;
+import java.util.List;
+
+public class test {
+
+    public static void main(String[] args) {
+        // TODOuto-generated method stub
+    	Solution623 s = new Solution623();
+    	String[] a = new String[]{"abc","abd","abcd","adc"};
+    	String target = "ac";
+    	
+    	//ListNode(digits[0]);
+//        ListNode temp = listhead;
+//        for (int i = 1; i < digits.length; i++) {
+//        	temp.next = new ListNode(digits[i]);
+//        	temp = temp.next;
+//        }
+//        temp.next = null;
+        
+      //  s.rorate(digits, 7+3);
+//        String a = "Abc";
+    	//ArrayList<ArrayList<Integer>> al = s.buildingOutline(a);
+        System.out.println(s.kDistance(a, target, 1));
+    }
+
+}

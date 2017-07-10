@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;set&apos; in &apos;Solution131.buildingOutline(...)&apos; to &apos;map&apos;&#x0A;- Original project: &apos;Leetcodehard&apos;&#x0A;- Original element: &apos;Solution131.buildingOutline(int[][]).set&apos;&#x0A;- Renamed element: &apos;set&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;set&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{Solution131.java[Solution131~buildingOutline~\[\[I@set!1319!1399!1345!1347!QTreeMap\&lt;QInteger;QInteger;&gt;;!0!false" name="map" references="true" stamp="1498486512868" version="1.0"/>
+</session>
